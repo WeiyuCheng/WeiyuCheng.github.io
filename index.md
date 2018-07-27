@@ -8,10 +8,10 @@ My research interests span deep learning, recommender systems and data mining.
 
 -----
 ## Publications 
-1. **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang:   
-DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation.   
-**IJCAI 2018.** (Full, Acceptance rate: 20.5%)
-2. **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang:  
-A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.  
-**AAAI 2018.** (Full, Acceptance rate: 24.6%)  
+1. DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation.  
+**Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang    
+IJCAI 2018. (Full, Acceptance rate: 20.5%) [[pdf]]()     
+2. A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.  
+**Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang   
+AAAI 2018. (Full, Acceptance rate: 24.6%) [[pdf]]()    
 

@@ -8,8 +8,7 @@ My research interests span deep learning, recommender systems and data mining.
 
 -----
 ## Publications 
-1. Incorporating Interpretability into Latent Factor Models via Fast
-Influence Analysis.
+1. Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis.
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu
 KDD 2019. (Full&Oral, Research Track, Acceptance rate: 14.1%) [[Paper]](https://weiyucheng.github.io/Files/kdd19-sigconf.pdf)
 2. DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation.  

@@ -1,6 +1,6 @@
 
 ## Biography
-I am now a third-year PhD candidate in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) at Shanghai Jiao Tong University, advised by [Prof. Linpeng Huang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=166). I am also advised by [Prof. Yanyan Shen](http://www.cs.sjtu.edu.cn/~shen-yy/) and [Prof. Yanmin Zhu](http://www.cs.sjtu.edu.cn/~yzhu/). Before that, I obtained my B.Eng. in School of Mechanical Engineering at Shanghai Jiao Tong University in 2016.
+I am now a third-year PhD candidate in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) at Shanghai Jiao Tong University, advised by [Prof. Linpeng Huang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=166). I am also advised by [Prof. Yanyan Shen](http://www.cs.sjtu.edu.cn/~shen-yy/). Before that, I obtained my B.Eng. in School of Mechanical Engineering at Shanghai Jiao Tong University in 2016.
 
 -----
 ## Research interests

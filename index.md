@@ -10,7 +10,7 @@ My research interests span deep learning, recommender systems and data mining.
 ## Publications 
 1. Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang     
-AAAI 2020. (Full, Acceptance rate: 20.6%) [[Paper]](https://github.com/WeiyuCheng/WeiyuCheng.github.io/blob/master/Files/AAAI-ChengW.1650.pdf)  
+AAAI 2020. (Full, Acceptance rate: 20.6%) [[Paper]](https://weiyucheng.github.io/Files/AAAI-ChengW.1650.pdf)  
 2. Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu     
 KDD 2019. (Full, Research Track, Acceptance rate: 14.1%) [[Paper]](https://weiyucheng.github.io/Files/kdd19-sigconf.pdf)

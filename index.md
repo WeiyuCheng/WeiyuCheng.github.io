@@ -8,13 +8,16 @@ My research interests span deep learning, recommender systems and data mining.
 
 -----
 ## Publications 
-1. Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis.  
+1. Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.  
+**Weiyu Cheng**, Yanyan Shen, Linpeng Huang     
+AAAI 2020. (Full, Acceptance rate: 20.6%) [[Paper]](https://github.com/WeiyuCheng/WeiyuCheng.github.io/blob/master/Files/AAAI-ChengW.1650.pdf)  
+2. Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu     
-KDD 2019. (Full&Oral, Research Track, Acceptance rate: 14.1%) [[Paper]](https://weiyucheng.github.io/Files/kdd19-sigconf.pdf)
-2. DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation.  
+KDD 2019. (Full, Research Track, Acceptance rate: 14.1%) [[Paper]](https://weiyucheng.github.io/Files/kdd19-sigconf.pdf)
+3. DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation.  
 **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang    
 IJCAI 2018. (Full, Acceptance rate: 20.5%) [[Paper]](https://weiyucheng.github.io/Files/0462.pdf)
-3. A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.  
+4. A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.  
 **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang   
 AAAI 2018. (Full, Acceptance rate: 24.6%) [[Paper]](https://weiyucheng.github.io/Files/16607-76685-1-PB.pdf)    
 

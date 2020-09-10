@@ -9,8 +9,8 @@ My research interests span deep learning, recommender systems and data mining.
 -----
 ## Publications 
 1. Differentiable Neural Input Search for Recommender Systems.  
-**Weiyu Cheng**, Yanyan Shen, Linpeng Huang     
-Arxiv, under review.
+**Weiyu Cheng**, Yanyan Shen, Linpeng Huang    
+Arxiv, under review. [[Paper]](https://weiyucheng.github.io/Files/DNIS-arxiv.pdf ) 
 2. Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang     
 AAAI 2020. (Full, Acceptance rate: 20.6%) [[Paper]](https://weiyucheng.github.io/Files/AAAI-ChengW.1650.pdf)  

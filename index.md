@@ -22,5 +22,8 @@ KDD 2019. (Full, Research Track, Acceptance rate: 14.1%) [[Paper]](https://weiyu
 IJCAI 2018. (Full, Acceptance rate: 20.5%) [[Paper]](https://weiyucheng.github.io/Files/0462.pdf)
 5. A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.  
 **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang   
-AAAI 2018. (Full, Acceptance rate: 24.6%) [[Paper]](https://weiyucheng.github.io/Files/16607-76685-1-PB.pdf)    
+AAAI 2018. (Full, Acceptance rate: 24.6%) [[Paper]](https://weiyucheng.github.io/Files/16607-76685-1-PB.pdf)   
+6. LADD: A Length-Adaptive Approach to Detecting Taxi Anomalous Detours.  
+Xuansheng Lu, **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu   
+ICPADS 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8975724)
 

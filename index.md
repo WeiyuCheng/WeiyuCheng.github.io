@@ -11,19 +11,22 @@ My research interests span deep learning, recommender systems and data mining.
 1. Differentiable Neural Input Search for Recommender Systems.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang    
 Arxiv, under review. [[Paper]](https://arxiv.org/pdf/2006.04466.pdf) 
-2. Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.  
+2. Dual-Embedding based Deep Latent Factor Models for Recommendation.  
+**Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu    
+Accepted by ACM Transactions on Knowledge Discovery from Data (TKDD).
+3. Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang     
 AAAI 2020. (Full, Acceptance rate: 20.6%) [[Paper]](https://weiyucheng.github.io/Files/AAAI-ChengW.1650.pdf)  
-3. Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis.  
+4. Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu     
 KDD 2019. (Full, Research Track, Acceptance rate: 14.1%) [[Paper]](https://weiyucheng.github.io/Files/kdd19-sigconf.pdf)
-4. DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation.  
+5. DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation.  
 **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang    
 IJCAI 2018. (Full, Acceptance rate: 20.5%) [[Paper]](https://weiyucheng.github.io/Files/0462.pdf)
-5. A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.  
+6. A Neural Attention Model for Urban Air Quality Inference: Learning the Weights of Monitoring Stations.  
 **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang   
 AAAI 2018. (Full, Acceptance rate: 24.6%) [[Paper]](https://weiyucheng.github.io/Files/16607-76685-1-PB.pdf)   
-6. LADD: A Length-Adaptive Approach to Detecting Taxi Anomalous Detours.  
+7. LADD: A Length-Adaptive Approach to Detecting Taxi Anomalous Detours.  
 Xuansheng Lu, **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu   
 ICPADS 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8975724)
 

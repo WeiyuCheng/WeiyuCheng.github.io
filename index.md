@@ -13,7 +13,7 @@ My research interests span deep learning, recommender systems and data mining.
 Arxiv, under review. [[Paper]](https://arxiv.org/pdf/2006.04466.pdf) 
 2. Dual-Embedding based Deep Latent Factor Models for Recommendation.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu    
-ACM Trans. Knowl. Discov. Data 15, 5, Article 85 (April 2021), 24 pages.
+ACM Trans. Knowl. Discov. Data 15, 5, Article 85 (April 2021), 24 pages. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447395)
 3. Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang     
 AAAI 2020. (Full, Acceptance rate: 20.6%) [[Paper]](https://weiyucheng.github.io/Files/AAAI-ChengW.1650.pdf)  

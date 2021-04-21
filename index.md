@@ -19,7 +19,7 @@ ACM Trans. Knowl. Discov. Data 15, 5, Article 85 (April 2021), 24 pages. [[Paper
 AAAI 2020. (Full, Acceptance rate: 20.6%) [[Paper]](https://weiyucheng.github.io/Files/AAAI-ChengW.1650.pdf)  
 4. Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu     
-KDD 2019. (Full, Research Track, Acceptance rate: 14.1%) [[Paper]](https://weiyucheng.github.io/Files/kdd19-sigconf.pdf)
+KDD 2019. (Full, Research Track, Acceptance rate: 14.1%) [[Paper]](https://dl.acm.org/doi/10.1145/3292500.3330857?cid=99659335273)
 5. DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation.  
 **Weiyu Cheng**, Yanyan Shen, Yanmin Zhu, Linpeng Huang    
 IJCAI 2018. (Full, Acceptance rate: 20.5%) [[Paper]](https://weiyucheng.github.io/Files/0462.pdf)

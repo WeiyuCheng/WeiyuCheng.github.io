@@ -1,6 +1,6 @@
 
 ## Biography
-I am now a fifth-year PhD candidate in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) at Shanghai Jiao Tong University, advised by [Prof. Linpeng Huang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=166). I am also advised by [Prof. Yanyan Shen](http://www.cs.sjtu.edu.cn/~shen-yy/). Before that, I obtained my B.Eng. in School of Mechanical Engineering at Shanghai Jiao Tong University in 2016. I have served as the reviewer for ICML'21, AAAI'21, NeurIPS'20 and IEEE JAS.
+I am now a fifth-year PhD candidate in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/en/) at Shanghai Jiao Tong University, advised by [Prof. Linpeng Huang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=166). I am also advised by [Prof. Yanyan Shen](http://www.cs.sjtu.edu.cn/~shen-yy/). Before that, I obtained my B.Eng. in School of Mechanical Engineering at Shanghai Jiao Tong University in 2016. I have served as the reviewer for AAAI 2021, ICML 2021, NeurIPS 2020/2021 and IEEE JAS.
 
 -----
 ## Research interests

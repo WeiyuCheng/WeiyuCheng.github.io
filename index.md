@@ -10,11 +10,11 @@ Accepted by Transactions on Information Systems (August 2022).
 2. AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction.  
 Shuming Kong, **Weiyu Cheng**, Yanyan Shen, Linpeng Huang  
 IEEE Transactions on Knowledge & Data Engineering (June 2022), vol. 01, no. 01, pp. 1-14, 5555.  
-3. Differentiable Neural Input Search for Recommender Systems.  
+3. Dual-Embedding based Deep Latent Factor Models for Recommendation.  
+**Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu   
+4. Differentiable Neural Input Search for Recommender Systems.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang    
 Arxiv. (June 2020) [[Paper]](https://arxiv.org/pdf/2006.04466.pdf) 
-4. Dual-Embedding based Deep Latent Factor Models for Recommendation.  
-**Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu    
 ACM Trans. Knowl. Discov. Data 15, 5, Article 85 (April 2021), 24 pages. [[Paper]](https://dl.acm.org/doi/10.1145/3447395?cid=99659335273)
 5. Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang     

@@ -12,7 +12,7 @@ Shuming Kong, **Weiyu Cheng**, Yanyan Shen, Linpeng Huang
 IEEE Transactions on Knowledge & Data Engineering (June 2022), vol. 01, no. 01, pp. 1-14, 5555.  
 3. Differentiable Neural Input Search for Recommender Systems.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang    
-Arxiv. [[Paper]](https://arxiv.org/pdf/2006.04466.pdf) 
+Arxiv. (June 2020) [[Paper]](https://arxiv.org/pdf/2006.04466.pdf) 
 4. Dual-Embedding based Deep Latent Factor Models for Recommendation.  
 **Weiyu Cheng**, Yanyan Shen, Linpeng Huang, Yanmin Zhu    
 ACM Trans. Knowl. Discov. Data 15, 5, Article 85 (April 2021), 24 pages. [[Paper]](https://dl.acm.org/doi/10.1145/3447395?cid=99659335273)

@@ -1,8 +1,16 @@
 
 ## Biography
-I am now a machine learning researcher of [Meituan](https://about.meituan.com/en). Prior to joining Meituan, I received my bachelor degree in 2016, and got my doctoral degree in 2021 from the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+I am currently a machine learning researcher at [Meituan](https://about.meituan.com/en). Before joining Meituan, I completed my Bachelor's degree in 2016 and earned my Doctoral degree in 2021 from the Department of Computer Science and Engineering at Shanghai Jiao Tong University.
 
-My research interests include recommender systems and deep learning. I serve as PC members of AAAI, ICML, NeurIPS, and ICLR.
+My research interests encompass deep learning, recommender systems, and natural language processing.
+
+I have served as a reviewer for the following conferences:
+
+- NeurIPS: 2022, 2021, 2020
+- ICML: 2023, 2022, 2021
+- ICLR: 2023, 2022
+- AAAI: 2022, 2021
+
 
 ## Publications 
 1. RESUS: Warm-Up Cold Users via Meta-Learning Residual User Preferences in CTR Prediction.  

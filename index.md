@@ -6,9 +6,9 @@ My research interests encompass deep learning, recommender systems, and natural 
 
 I have served as a reviewer for the following conferences:
 
-- NeurIPS: 2022, 2021, 2020
-- ICML: 2023, 2022, 2021
 - ICLR: 2023, 2022
+- ICML: 2023, 2022, 2021
+- NeurIPS: 2022, 2021, 2020
 - AAAI: 2022, 2021
 
 

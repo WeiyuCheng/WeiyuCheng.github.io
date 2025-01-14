@@ -1,14 +1,14 @@
 
 ## Biography
-I am currently a machine learning researcher at [Meituan](https://about.meituan.com/en). Before joining Meituan, I completed my Bachelor's degree in 2016 and earned my Doctoral degree in 2021 from the Department of Computer Science and Engineering at Shanghai Jiao Tong University.
+I am currently a Large Language Model researcher at [Minimax](https://www.minimaxi.com/en). Before joining Minimax, I worked at Meituan for one year. Before that, I completed my Bachelor's degree in 2016 and earned my Doctoral degree in 2021 from the Department of Computer Science and Engineering at Shanghai Jiao Tong University.
 
 My research interests encompass deep learning, recommender systems, and natural language processing.
 
 I have served as a reviewer for the following conferences:
 
-- ICLR: 2023, 2022
-- ICML: 2023, 2022, 2021
-- NeurIPS: 2022, 2021, 2020
+- ICLR: 2025, 2024, 2023, 2022
+- ICML: 2024, 2023, 2022, 2021
+- NeurIPS: 2024, 2023, 2022, 2021, 2020
 - AAAI: 2022, 2021
 
 

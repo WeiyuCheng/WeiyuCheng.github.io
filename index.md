@@ -1,7 +1,7 @@
 
 ## Biography
 I am currently an AI researcher at [Minimax](https://www.minimaxi.com/en).
-Before joining Minimax, I worked at Meituan for one year. 
+Before joining Minimax, I worked at Meituan from 2021 and 2023. 
 Before that, I completed my Bachelor's degree in 2016 and earned my Doctoral degree in 2021 at Shanghai Jiao Tong University.
 
 My research interests encompass Large Language Models, Deep Learning and Recommender Systems.

@@ -6,7 +6,8 @@ Before that, I completed my Bachelor's degree in 2016 and earned my Doctoral deg
 
 My research interests encompass Large Language Models, Deep Learning and Recommender Systems. I have served as a reviewer for ICLR, ICML and NeurIPS since 2020.
 
-## Publications 
+## Publications
+[[Google Scholar]](https://scholar.google.com/citations?user=hQT41Q4AAAAJ&hl=zh-TW)
 1. MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention.  
 arXiv preprint arXiv:2506.13585. [[Paper]](https://arxiv.org/abs/2506.13585)
 2. Minimax-01: Scaling foundation models with lightning attention.  

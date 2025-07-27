@@ -1,21 +1,15 @@
 
 ## Biography
-I am currently an AI researcher at [Minimax](https://www.minimaxi.com/en).
-Before joining Minimax, I worked at Meituan from 2021 and 2023. 
+I am currently a researcher at [Minimax](https://www.minimaxi.com/en), working on LLMs.
+Before joining Minimax, I worked at Meituan from 2021 to 2023. 
 Before that, I completed my Bachelor's degree in 2016 and earned my Doctoral degree in 2021 at Shanghai Jiao Tong University.
 
-My research interests encompass Large Language Models, Deep Learning and Recommender Systems.
-
-I have served as a reviewer for the following conferences:
-
-- ICLR: 2022~2025
-- ICML: 2021~2025
-- NeurIPS: 2020~2024
-- AAAI: 2021~2022
-
+My research interests encompass Large Language Models, Deep Learning and Recommender Systems. I have served as a reviewer for ICLR, ICML and NeurIPS since 2020.
 
 ## Publications 
-1. Minimax-01: Scaling foundation models with lightning attention.  
+1. MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention.  
+arXiv preprint arXiv:2506.13585. [[Paper]](https://arxiv.org/abs/2506.13585)
+2. Minimax-01: Scaling foundation models with lightning attention.  
 arXiv preprint arXiv:2501.08313. [[Paper]](https://arxiv.org/abs/2501.08313)
 3. RESUS: Warm-Up Cold Users via Meta-Learning Residual User Preferences in CTR Prediction.  
 Yanyan Shen, Lifan Zhao, **Weiyu Cheng**, Zibin Zhang, Wenwen Zhou, Kangyi Lin   
